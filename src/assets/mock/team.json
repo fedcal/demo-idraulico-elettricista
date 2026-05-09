@@ -1,0 +1,49 @@
+{
+  "team": [
+    {
+      "id": 1,
+      "nome": "Luca Romano",
+      "ruolo": "Titolare — Idraulico e Termoidraulico",
+      "bio": "Oltre 22 anni di esperienza in impianti civili e industriali. Patentino gas metano CIG. Ha fondato Tecnoservizi 24h nel 2008 con l'obiettivo di offrire un servizio di pronto intervento affidabile a Roma.",
+      "anniEsperienza": 22,
+      "specialita": ["Caldaie a condensazione", "Impianti gas", "Pronto intervento"],
+      "certificazioni": ["Patentino gas CIG", "D.M. 37/08 impianti idrosanitari"]
+    },
+    {
+      "id": 2,
+      "nome": "Marco Ferretti",
+      "ruolo": "Elettricista Senior",
+      "bio": "Specializzato in impianti civili e residenziali. 15 anni di esperienza tra cantieri privati e condomini romani. Abilità nella progettazione e dichiarazioni di conformità.",
+      "anniEsperienza": 15,
+      "specialita": ["Quadri elettrici", "Impianti domotica", "Messa a terra"],
+      "certificazioni": ["D.M. 37/08 impianti elettrici", "CEI 64-8"]
+    },
+    {
+      "id": 3,
+      "nome": "Antonio Esposito",
+      "ruolo": "Idraulico e Installatore",
+      "bio": "Artigiano con 12 anni di esperienza in ristrutturazioni bagno e cucina, sostituzione sanitari e rubinetteria. Veloce e preciso nei lavori di finitura.",
+      "anniEsperienza": 12,
+      "specialita": ["Bagni e cucine", "Rubinetteria", "Scarichi e colonne"],
+      "certificazioni": ["D.M. 37/08 impianti idrosanitari"]
+    },
+    {
+      "id": 4,
+      "nome": "Simone Bianchi",
+      "ruolo": "Elettricista e Tecnico TVCC",
+      "bio": "Specializzato in sistemi di videosorveglianza, citofoni IP, colonnine ricarica EV e impianti di sicurezza. 8 anni di attività nel settore.",
+      "anniEsperienza": 8,
+      "specialita": ["Videosorveglianza", "Citofoni IP", "Ricarica EV"],
+      "certificazioni": ["D.M. 37/08 impianti elettrici"]
+    },
+    {
+      "id": 5,
+      "nome": "Gianluca Moretti",
+      "ruolo": "Termoidraulico e Gas",
+      "bio": "Tecnico specializzato in caldaie, riscaldamento e impianti a gas. 10 anni di esperienza in manutenzione e riparazione di scaldabagni e caldaie di ogni marca.",
+      "anniEsperienza": 10,
+      "specialita": ["Caldaie e scaldabagni", "Riscaldamento", "Gas metano"],
+      "certificazioni": ["Patentino gas CIG", "D.M. 37/08 impianti termici"]
+    }
+  ]
+}

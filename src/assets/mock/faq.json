@@ -1,0 +1,36 @@
+{
+  "faq": [
+    {
+      "domanda": "Il preventivo è gratuito?",
+      "risposta": "Sì, il preventivo scritto è sempre gratuito e senza impegno. Per lavori piccoli o urgenze (perdite, guasti) l'intervento parte senza necessità di sopralluogo preliminare."
+    },
+    {
+      "domanda": "Come funziona il servizio urgenze 24h?",
+      "risposta": "Siamo disponibili 24 ore su 24, 7 giorni su 7, festivi inclusi. Per gli interventi notturni (20:00–08:00) e nei festivi è previsto un supplemento di €30. Tempo medio di arrivo: 30–60 minuti nell'area Roma."
+    },
+    {
+      "domanda": "Quali zone coprite a Roma?",
+      "risposta": "Copriamo tutta Roma e i comuni entro 30 km dal centro: Fiumicino, Guidonia, Frascati, Tivoli e altri. Per le zone periferiche il tempo di intervento può superare i 45 minuti."
+    },
+    {
+      "domanda": "Rilasciate garanzia sui lavori?",
+      "risposta": "Sì, tutti gli interventi sono coperti da garanzia di 12 mesi su manodopera e materiali installati da noi. In caso di problemi, ritorniamo senza costi aggiuntivi."
+    },
+    {
+      "domanda": "Emettete fattura?",
+      "risposta": "Assolutamente sì. Emettiamo sempre regolare fattura elettronica. Siamo artigiani regolarmente iscritti alla Camera di Commercio con partita IVA."
+    },
+    {
+      "domanda": "Fornite i pezzi di ricambio?",
+      "risposta": "Sì. Portiamo con noi un'ampia dotazione di ricambi comuni (guarnizioni, valvole, interruttori, prese). Per parti speciali (pompe, caldaie, quadri) procuriamo il materiale entro 24–48 ore."
+    },
+    {
+      "domanda": "Interveniamo su condomini?",
+      "risposta": "Sì, lavoriamo sia per privati che per condomini e property manager. Gestiamo la comunicazione con l'amministratore e forniamo tutta la documentazione necessaria per le pratiche condominiali."
+    },
+    {
+      "domanda": "Quanto costa un'ora di lavoro?",
+      "risposta": "La tariffa oraria è di €40–60/ora a seconda del tipo di lavoro (idraulico o elettrico). Il minimo fatturabile è 1 ora. Il preventivo scritto specifica sempre i costi prima dell'inizio dei lavori."
+    }
+  ]
+}

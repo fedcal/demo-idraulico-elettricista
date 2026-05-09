@@ -1,0 +1,143 @@
+{
+  "categorie": [
+    { "id": "idraulica", "nome": "Idraulica", "ordine": 1 },
+    { "id": "elettrica", "nome": "Impianti Elettrici", "ordine": 2 }
+  ],
+  "servizi": [
+    {
+      "id": 1,
+      "categoria": "idraulica",
+      "nome": "Riparazione perdite e rotture tubi",
+      "descrizione": "Intervento su perdite visibili o nascoste, tubazioni rotte, perdite sotto traccia. Diagnostica con termocamera.",
+      "prezzoOrario": 50,
+      "urgenza": true,
+      "icona": "🚿"
+    },
+    {
+      "id": 2,
+      "categoria": "idraulica",
+      "nome": "Sostituzione rubinetteria",
+      "descrizione": "Sostituzione rubinetti cucina, bagno, miscelatori, docce. Fornitura materiali su richiesta.",
+      "prezzoOrario": 45,
+      "urgenza": false,
+      "icona": "🔧"
+    },
+    {
+      "id": 3,
+      "categoria": "idraulica",
+      "nome": "Sblocco scarichi e colonne",
+      "descrizione": "Disostruzione lavandini, docce, wc, colonne condominiali. Idropulizia professionale.",
+      "prezzoOrario": 50,
+      "urgenza": true,
+      "icona": "🌀"
+    },
+    {
+      "id": 4,
+      "categoria": "idraulica",
+      "nome": "Sostituzione e riparazione scaldabagno",
+      "descrizione": "Intervento su scaldabagno elettrico, a gas istantaneo, a pompa di calore. Installazione nuovi apparecchi.",
+      "prezzoOrario": 55,
+      "urgenza": true,
+      "icona": "🔥"
+    },
+    {
+      "id": 5,
+      "categoria": "idraulica",
+      "nome": "Installazione e riparazione caldaie",
+      "descrizione": "Manutenzione, riparazione e sostituzione caldaie a condensazione e tradizionali. Patentino gas.",
+      "prezzoOrario": 60,
+      "urgenza": true,
+      "icona": "🏭"
+    },
+    {
+      "id": 6,
+      "categoria": "idraulica",
+      "nome": "Rifacimento impianto idraulico",
+      "descrizione": "Ristrutturazione completa impianto idrico, scarico e riscaldamento. Preventivo personalizzato.",
+      "prezzoOrario": 55,
+      "urgenza": false,
+      "icona": "🏗️"
+    },
+    {
+      "id": 7,
+      "categoria": "idraulica",
+      "nome": "Installazione sanitari e vasche",
+      "descrizione": "Posa e collegamento WC, bidet, lavandini, vasche da bagno, piatti doccia, box doccia.",
+      "prezzoOrario": 50,
+      "urgenza": false,
+      "icona": "🛁"
+    },
+    {
+      "id": 8,
+      "categoria": "idraulica",
+      "nome": "Termosifoni e impianto riscaldamento",
+      "descrizione": "Installazione, sfiatamento, sostituzione radiatori. Equilibratura circuiti riscaldamento.",
+      "prezzoOrario": 55,
+      "urgenza": true,
+      "icona": "🌡️"
+    },
+    {
+      "id": 9,
+      "categoria": "elettrica",
+      "nome": "Guasto e blackout elettrico",
+      "descrizione": "Intervento urgente su blackout, cortocircuiti, quadro elettrico in tilt. Diagnostica rapida.",
+      "prezzoOrario": 55,
+      "urgenza": true,
+      "icona": "⚡"
+    },
+    {
+      "id": 10,
+      "categoria": "elettrica",
+      "nome": "Sostituzione quadro elettrico",
+      "descrizione": "Sostituzione e adeguamento quadro elettrico a norma CEI 64-8, differenziali e magnetotermici.",
+      "prezzoOrario": 60,
+      "urgenza": false,
+      "icona": "🔌"
+    },
+    {
+      "id": 11,
+      "categoria": "elettrica",
+      "nome": "Impianto luci e punti presa",
+      "descrizione": "Installazione nuovi punti luce, prese, interruttori, LED, strip LED. Lavori a norma.",
+      "prezzoOrario": 50,
+      "urgenza": false,
+      "icona": "💡"
+    },
+    {
+      "id": 12,
+      "categoria": "elettrica",
+      "nome": "Messa a terra e verifiche",
+      "descrizione": "Installazione e verifica impianto di terra, dispersore. Dichiarazione conformità D.M. 37/08.",
+      "prezzoOrario": 55,
+      "urgenza": false,
+      "icona": "🛡️"
+    },
+    {
+      "id": 13,
+      "categoria": "elettrica",
+      "nome": "Citofonì, videocitofoni e tvcc",
+      "descrizione": "Installazione e riparazione citofoni, videocitofoni IP, telecamere di sorveglianza cablate.",
+      "prezzoOrario": 50,
+      "urgenza": false,
+      "icona": "📷"
+    },
+    {
+      "id": 14,
+      "categoria": "elettrica",
+      "nome": "Colonnina ricarica veicoli elettrici",
+      "descrizione": "Installazione wallbox monofase e trifase per auto elettrica, con dichiarazione di conformità.",
+      "prezzoOrario": 60,
+      "urgenza": false,
+      "icona": "🔋"
+    },
+    {
+      "id": 15,
+      "categoria": "elettrica",
+      "nome": "Rifacimento impianto elettrico",
+      "descrizione": "Ristrutturazione completa impianto elettrico civile e industriale. Progettazione e dichiarazione conformità.",
+      "prezzoOrario": 60,
+      "urgenza": false,
+      "icona": "🏠"
+    }
+  ]
+}

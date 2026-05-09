@@ -1,0 +1,21 @@
+{
+  "raggio": 30,
+  "centroKm": "Roma centro (Piazza Venezia)",
+  "zone": [
+    { "id": 1, "nome": "Roma Centro Storico", "distanzaKm": 0, "municipio": "I", "tempoMedioMin": 20, "copertura": "completa" },
+    { "id": 2, "nome": "Prati e Vaticano", "distanzaKm": 3, "municipio": "XIV", "tempoMedioMin": 25, "copertura": "completa" },
+    { "id": 3, "nome": "Trastevere e Testaccio", "distanzaKm": 2, "municipio": "I", "tempoMedioMin": 20, "copertura": "completa" },
+    { "id": 4, "nome": "EUR e Ostiense", "distanzaKm": 8, "municipio": "IX", "tempoMedioMin": 30, "copertura": "completa" },
+    { "id": 5, "nome": "Tiburtina e Casal Bertone", "distanzaKm": 5, "municipio": "V", "tempoMedioMin": 25, "copertura": "completa" },
+    { "id": 6, "nome": "Pigneto e Prenestino", "distanzaKm": 4, "municipio": "V", "tempoMedioMin": 25, "copertura": "completa" },
+    { "id": 7, "nome": "Cinecittà e Don Bosco", "distanzaKm": 9, "municipio": "VII", "tempoMedioMin": 35, "copertura": "completa" },
+    { "id": 8, "nome": "Montesacro e Nomentano", "distanzaKm": 7, "municipio": "III", "tempoMedioMin": 30, "copertura": "completa" },
+    { "id": 9, "nome": "Parioli e Salario", "distanzaKm": 4, "municipio": "II", "tempoMedioMin": 25, "copertura": "completa" },
+    { "id": 10, "nome": "Tuscolano e Appio Latino", "distanzaKm": 6, "municipio": "VII", "tempoMedioMin": 30, "copertura": "completa" },
+    { "id": 11, "nome": "Ostia Lido", "distanzaKm": 28, "municipio": "X", "tempoMedioMin": 50, "copertura": "parziale" },
+    { "id": 12, "nome": "Fiumicino", "distanzaKm": 26, "municipio": "XV", "tempoMedioMin": 45, "copertura": "parziale" },
+    { "id": 13, "nome": "Guidonia Montecelio", "distanzaKm": 25, "municipio": "fuori Roma", "tempoMedioMin": 45, "copertura": "parziale" },
+    { "id": 14, "nome": "Frascati e Castelli Romani", "distanzaKm": 22, "municipio": "fuori Roma", "tempoMedioMin": 40, "copertura": "parziale" },
+    { "id": 15, "nome": "Tivoli", "distanzaKm": 30, "municipio": "fuori Roma", "tempoMedioMin": 50, "copertura": "parziale" }
+  ]
+}

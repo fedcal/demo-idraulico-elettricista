@@ -1,0 +1,52 @@
+{
+  "ragioneSociale": "Tecnoservizi 24h di Romano Luca",
+  "nomeCommerciale": "Tecnoservizi 24h",
+  "tagline": "Idraulico ed elettricista — Roma 24/7 urgenze",
+  "indirizzo": {
+    "via": "Via Tuscolana 318",
+    "citta": "Roma",
+    "provincia": "RM",
+    "cap": "00182",
+    "regione": "Lazio",
+    "paese": "Italia",
+    "lat": 41.8719,
+    "lng": 12.5264
+  },
+  "contatti": {
+    "telefonoUrgenze": "800 123 456",
+    "telefono": "+39 06 555 8800",
+    "whatsapp": "+393389001122",
+    "email": "info@tecnoservizi24h.it",
+    "social": {
+      "facebook": "https://www.facebook.com/tecnoservizi24h"
+    }
+  },
+  "orari": {
+    "urgenze": "24 ore su 24, 7 giorni su 7",
+    "ufficio": "Lun-Ven 08:00–19:00, Sab 08:00–13:00",
+    "lunedi": "08:00 – 19:00",
+    "martedi": "08:00 – 19:00",
+    "mercoledi": "08:00 – 19:00",
+    "giovedi": "08:00 – 19:00",
+    "venerdi": "08:00 – 19:00",
+    "sabato": "08:00 – 13:00",
+    "domenica": "Solo urgenze 24h"
+  },
+  "prezzi": {
+    "tariffaOraria": "€40–60/ora",
+    "chiamataUrgenza": "€30 supplemento notturno/festivo",
+    "preventivoGratuito": true,
+    "garanziaMesi": 12
+  },
+  "certificazioni": [
+    "Abilitazione D.M. 37/08 (Impianti elettrici)",
+    "Abilitazione D.M. 37/08 (Impianti idrosanitari)",
+    "Patentino gas metano CIG",
+    "Assicurazione RC Professionale"
+  ],
+  "metaSeo": {
+    "title": "Tecnoservizi 24h — Idraulico ed Elettricista Roma H24",
+    "description": "Idraulico ed elettricista a Roma disponibili 24/7 per urgenze. Preventivo gratuito, intervento rapido, garanzia 12 mesi. Chiama il numero verde.",
+    "keywords": ["idraulico Roma", "elettricista Roma", "urgenze idraulico", "pronto intervento Roma", "guasto idraulico", "impianti elettrici Roma"]
+  }
+}
