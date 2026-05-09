@@ -3,14 +3,14 @@
 Template **Angular 21 SSR** open-source per sito vetrina **Idraulico Elettricista** (PMI italiane).
 
 [![Demo live](https://img.shields.io/badge/demo-live-brightgreen)](https://idraulico-elettricista.demo.federicocalo.dev)
-[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/federico-demo-idraulico-elettricista/)
+[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/demo-idraulico-elettricista/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Quick start
 
 ```bash
-git clone https://github.com/fedcal/federico-demo-idraulico-elettricista.git
-cd federico-demo-idraulico-elettricista
+git clone https://github.com/fedcal/demo-idraulico-elettricista.git
+cd demo-idraulico-elettricista
 npm install
 npm start
 ```
@@ -36,7 +36,7 @@ npm run serve:ssr:idraulico-elettricista
 
 ## Documentazione completa
 
-→ https://fedcal.github.io/federico-demo-idraulico-elettricista/
+→ https://fedcal.github.io/demo-idraulico-elettricista/
 
 ## Hub demos Federico
 

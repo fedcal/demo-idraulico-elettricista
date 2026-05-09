@@ -1,5 +1,5 @@
 {
-  "name": "federico-demo-idraulico-elettricista",
+  "name": "demo-idraulico-elettricista",
   "version": "0.1.0",
   "description": "Angular 21 SSR demo template per Idraulico Elettricista — Federico Calò",
   "private": true,
@@ -7,7 +7,7 @@
   "homepage": "https://idraulico-elettricista.demo.federicocalo.dev",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fedcal/federico-demo-idraulico-elettricista.git"
+    "url": "https://github.com/fedcal/demo-idraulico-elettricista.git"
   },
   "scripts": {
     "ng": "ng",
